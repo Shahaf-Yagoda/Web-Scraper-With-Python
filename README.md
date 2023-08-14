@@ -5,4 +5,4 @@ This Python script is designed to scrape volleyball statistics from the 'Volleyb
 * The MAX_CLICKS variable controls the number of times the script will click the "See more" button to load additional data. 
 * The scraped data is organized into a Pandas DataFrame, making it easy to analyze, manipulate, and export the data to different formats.
 ## Disclaimer
-This script is provided for educational and informational purposes only. Please review and respect the terms of use of the website. 
+This script is provided for educational and informational purposes only. 
